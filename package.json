@@ -22,7 +22,7 @@
   "homepage": "https://github.com/un-ocha/hid_app2#readme",
   "devDependencies": {
     "grunt": "^1.0.3",
-    "grunt-angular-gettext": "^2.2.3",
+    "grunt-angular-gettext": "^2.4.3",
     "grunt-angular-templates": "^1.1.0",
     "grunt-cache-bust": "^1.4.1",
     "grunt-contrib-clean": "^2.0.0",
